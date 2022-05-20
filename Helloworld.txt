@@ -7,3 +7,4 @@ Art-Pro分支修改文件测试冲突。
 本地使用yunyufeiwei账号拉取工程并推送到远程库。
 
 使用yuxuetian账号clone工程，并修改推送测试。
+团队外人员协作测试。
